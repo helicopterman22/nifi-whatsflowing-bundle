@@ -1,0 +1,25 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-whatsflowing-nar
+
+
+From: 'Apache NiFi(incubating) Project' (http://nifi.incubator.apache.org/)
+  - nifi-processor-utils (http://nifi.incubator.apache.org/nifi/nifi-commons/nifi-processor-utils) org.apache.nifi:nifi-processor-utils:jar:0.2.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-security-utils (http://nifi.incubator.apache.org/nifi/nifi-commons/nifi-security-utils) org.apache.nifi:nifi-security-utils:jar:0.2.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-utils (http://nifi.incubator.apache.org/nifi/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:0.2.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-whatsflowing-processor (http://nifi.incubator.apache.org/nifi/nifi-nar-bundles/nifi-whatsflowing-bundle/nifi-whatsflowing-processor) org.apache.nifi:nifi-whatsflowing-processor:jar:0.2.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Commons Lang (http://commons.apache.org/proper/commons-lang/) org.apache.commons:commons-lang3:jar:3.4
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
